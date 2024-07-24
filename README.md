@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @whatkindofmilkuare
+- 👀 I’m interested in Chemistry
