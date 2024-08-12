@@ -1,5 +1,6 @@
 # Whatkindofmilkuare
 #### 🧑‍🔬🎱🐈🧑‍💻
+#### Programuje w celach hobby'stycznych. Nie jestem doświadczonym programistą, jednak ciekawi mnie ten świat.
 
 #### Języki najczęściej używane przeze mnie do tworzenia projektów:
 ![whatkindofmilkuare's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whatkindofmilkuare&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
