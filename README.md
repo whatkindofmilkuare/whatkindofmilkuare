@@ -19,6 +19,8 @@
 - C#
 - MATLAB
 - SQL
+- MarkDown
+- JSON
 
 #### Moje hobby:
 - Chemia
