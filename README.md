@@ -1,6 +1,6 @@
-# 👋 Cześć! Jestem @whatkindofmilkuare
+# Witaj na profilu @whatkindofmilkuare
 
-## Używane przeze mnie języki:
+### Używane przeze mnie języki:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatkindofmilkuare)
 
 ### Moje hobby:
