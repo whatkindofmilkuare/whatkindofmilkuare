@@ -2,8 +2,7 @@ name: Generate Language Stats
 
 on:
   schedule:
-    # Runs at 00:00 on the first day of every month
-    - cron: "0 0 1 * *"
+    - cron: "0 0 1 * *"  # Runs at 00:00 on the first day of every month
   workflow_dispatch:
   push:
     branches:
@@ -17,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate Language Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: anuraghazra/github-readme-stats@v2
         with:
           token: ${{ secrets.GH_PAT }}
           username: whatkindofmilkuare
@@ -27,4 +26,4 @@ jobs:
 
       - name: Update README with stats
         run: |
-          echo "![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whatkindofmiluare&count_private=true)" >> README.md
+          echo "![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whatkindofmilkuare&count_private=true)" >> README.md
