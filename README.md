@@ -17,7 +17,6 @@ Programuje w celach hobby'stycznych. Nie jestem doświadczonym programistą, jed
 - PHP
 - C
 - C++
-- C#
 - MATLAB
 - SQL
 
