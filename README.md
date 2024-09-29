@@ -20,7 +20,6 @@ Programuje w celach hobby'stycznych. Nie jestem doświadczonym programistą, jed
 - C#
 - MATLAB
 - SQL
-- MarkDown
 
 #### Moje hobby:
 - Chemia
